@@ -1,0 +1,216 @@
+{
+  "source_sha256": "e344fc1b4619d355d88a52bc1eddf216cca60fb55c8e9bab42ac5d4ed04183a9",
+  "source_bytes": 9940992,
+  "resources": [
+    {
+      "file": "BITMAP_id129_lang2052.bmp",
+      "type": "BITMAP",
+      "id": 129,
+      "lang": 2052,
+      "offset": 1931128,
+      "size": 366784,
+      "codepage": 0,
+      "sha256": "e404b6c23371cc3924660a13e5a6695488e0521081f5d5078778ad776daae932"
+    },
+    {
+      "file": "BITMAP_id131_lang2052.bmp",
+      "type": "BITMAP",
+      "id": 131,
+      "lang": 2052,
+      "offset": 2297912,
+      "size": 318952,
+      "codepage": 0,
+      "sha256": "479814d08bc2eb24bc4528008c2ffcd5c1074beecce97cb925ea7a11090dba9c"
+    },
+    {
+      "file": "BITMAP_id134_lang2052.bmp",
+      "type": "BITMAP",
+      "id": 134,
+      "lang": 2052,
+      "offset": 2616864,
+      "size": 39640,
+      "codepage": 0,
+      "sha256": "995f1ff3042ebc1d560aec6d1d7f1ac4655bd161370c07c24f794e670477273f"
+    },
+    {
+      "file": "BITMAP_id135_lang2052.bmp",
+      "type": "BITMAP",
+      "id": 135,
+      "lang": 2052,
+      "offset": 2656504,
+      "size": 39640,
+      "codepage": 0,
+      "sha256": "de5c8fe5963969f0045ddbcf77c912f4cffa23bc4fef6c17eb1e0a4f700a3330"
+    },
+    {
+      "file": "BITMAP_id136_lang2052.bmp",
+      "type": "BITMAP",
+      "id": 136,
+      "lang": 2052,
+      "offset": 2696144,
+      "size": 39040,
+      "codepage": 0,
+      "sha256": "0786d6405b93721f9b4c3dadb5adb5a8799ee9392ca3bfcb3488b89237ab8b9c"
+    },
+    {
+      "file": "BITMAP_id137_lang2052.bmp",
+      "type": "BITMAP",
+      "id": 137,
+      "lang": 2052,
+      "offset": 2735184,
+      "size": 14264,
+      "codepage": 0,
+      "sha256": "5a5dce899e1356ab330bcc691957bc6da77499c71808e166f20ca094ca231966"
+    },
+    {
+      "file": "BITMAP_id138_lang2052.bmp",
+      "type": "BITMAP",
+      "id": 138,
+      "lang": 2052,
+      "offset": 2749448,
+      "size": 1026794,
+      "codepage": 0,
+      "sha256": "436969624ab7099fe5feddb0e69b91ee143a31a717fa1f713cecf38205b9130f"
+    },
+    {
+      "file": "BITMAP_id139_lang2052.bmp",
+      "type": "BITMAP",
+      "id": 139,
+      "lang": 2052,
+      "offset": 3776248,
+      "size": 1026794,
+      "codepage": 0,
+      "sha256": "cfeb863a5c3b716d29421148e40a578275001282d8def948194ccb443dc574f4"
+    },
+    {
+      "file": "BITMAP_id140_lang2052.bmp",
+      "type": "BITMAP",
+      "id": 140,
+      "lang": 2052,
+      "offset": 4803048,
+      "size": 1026794,
+      "codepage": 0,
+      "sha256": "522aa29cc9e75004b8a37af7c3646ceedf0b6e4f618c5ba2dad13186e8fe2561"
+    },
+    {
+      "file": "BITMAP_id141_lang2052.bmp",
+      "type": "BITMAP",
+      "id": 141,
+      "lang": 2052,
+      "offset": 5829848,
+      "size": 1026794,
+      "codepage": 0,
+      "sha256": "f87309e9c875b752db3a081096f1607d4dc173a4fd6b8ecf528f45f90ea6991f"
+    },
+    {
+      "file": "BITMAP_id142_lang2052.bmp",
+      "type": "BITMAP",
+      "id": 142,
+      "lang": 2052,
+      "offset": 6856648,
+      "size": 1026794,
+      "codepage": 0,
+      "sha256": "fcb759bb35e6e70d9dc7a81ae87ca9f25d88cae7d421aa9e5647c225ee9b4d97"
+    },
+    {
+      "file": "BITMAP_id143_lang2052.bmp",
+      "type": "BITMAP",
+      "id": 143,
+      "lang": 2052,
+      "offset": 7883448,
+      "size": 1026794,
+      "codepage": 0,
+      "sha256": "8abaedc7f0657d0773430c8dce70f169b4003b621552dd5acc375ad04c7d0ef1"
+    },
+    {
+      "file": "BITMAP_id144_lang2052.bmp",
+      "type": "BITMAP",
+      "id": 144,
+      "lang": 2052,
+      "offset": 8910248,
+      "size": 1026794,
+      "codepage": 0,
+      "sha256": "5af1abaaccb60249d04d60b8caba2ea8c9f55ec7c518443790aaf88a24aa3c10"
+    },
+    {
+      "file": "ICON_id1_lang2052.ico",
+      "type": "ICON",
+      "id": 1,
+      "lang": 2052,
+      "offset": 1926288,
+      "size": 744,
+      "codepage": 0,
+      "sha256": "5a72577122d18e73fcc32d5552b9434fbe12615793a7bebf9d5f7db91c98f0ce"
+    },
+    {
+      "file": "ICON_id2_lang2052.ico",
+      "type": "ICON",
+      "id": 2,
+      "lang": 2052,
+      "offset": 1927032,
+      "size": 296,
+      "codepage": 0,
+      "sha256": "ffd9b48eeb36e492268056fa57ec0106406baf928a35afecd3af7a7e9c5fa2b5"
+    },
+    {
+      "file": "ICON_id3_lang2052.ico",
+      "type": "ICON",
+      "id": 3,
+      "lang": 2052,
+      "offset": 1927328,
+      "size": 2216,
+      "codepage": 0,
+      "sha256": "a8ebb889adc8044147645d0a0f35b81c642593b2ae233ead347527e2d6b1a434"
+    },
+    {
+      "file": "DIALOG_id100_lang2052.dlg",
+      "type": "DIALOG",
+      "id": 100,
+      "lang": 2052,
+      "offset": 1929592,
+      "size": 238,
+      "codepage": 0,
+      "sha256": "fda87da9368177f7522179f721eb2f90cd7173885698fc572dec6321181154ed"
+    },
+    {
+      "file": "DIALOG_id102_lang2052.dlg",
+      "type": "DIALOG",
+      "id": 102,
+      "lang": 2052,
+      "offset": 1929832,
+      "size": 432,
+      "codepage": 0,
+      "sha256": "32d2537a5d1654b6d4336af0c73b1e4b2757a939e13970543bd01a9fff0dd002"
+    },
+    {
+      "file": "STRING_id7_lang2052.str",
+      "type": "STRING",
+      "id": 7,
+      "lang": 2052,
+      "offset": 9937048,
+      "size": 76,
+      "codepage": 0,
+      "sha256": "a9071d8164348ec26078de20a1ae3c67319003ce0d0bd46d92cb2da10a57e12a"
+    },
+    {
+      "file": "GROUP_ICON_id128_lang2052.ico",
+      "type": "GROUP_ICON",
+      "id": 128,
+      "lang": 2052,
+      "offset": 1929544,
+      "size": 48,
+      "codepage": 0,
+      "sha256": "4fb53300d56e889ff4a5400321e300189a85969b9ee180206556199ab77fd27d"
+    },
+    {
+      "file": "VERSION_id1_lang2052.version",
+      "type": "VERSION",
+      "id": 1,
+      "lang": 2052,
+      "offset": 1930264,
+      "size": 860,
+      "codepage": 0,
+      "sha256": "734f729c1f93bd9a9bc19982d1f683e1d99a86868c8f2a5e1497e62b3663013c"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.DS_Store
+.build/
+.tmp/
+.swiftpm/
+*.xcodeproj
+xcuserdata/
+DerivedData/
+PhotoProcessAnalyzer.app/
+dist/*.dmg
+
+# 目标程序及其提取的二进制资源（版权属于「人社部人事考试中心」，不入库）
+Sources/PhotoProcessAnalyzer/Resources/PhotoProcess.exe
+Sources/PhotoProcessAnalyzer/Resources/extracted/
