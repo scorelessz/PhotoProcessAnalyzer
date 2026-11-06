@@ -166,8 +166,12 @@ enum PhotoProcessor {
         guard backgroundOK(img) else { return .failure(.background) }
 
         // 扩框（忠实复刻：宽 = trunc(脸宽 × 1.618)；高 = round(宽 × 413/295)）
-        let cropW = Int(Double(face.width) * config.widthFactor)
-        let cropH = Int(Double(cropW) * Double(config.dstHeight) / Double(config.dstWidth) + 0.5)
+        var cropW = Int(Double(face.width) * config.widthFactor)
+        var cropH = Int(Double(cropW) * Double(config.dstHeight) / Double(config.dstWidth) + 0.5)
+
+        // 与原程序一致：裁剪框不得超过图像边界（cropW > 图宽 → cropW = 图宽，x = 0）
+        if cropW > W { cropW = W }
+        if cropH > H { cropH = H }
 
         var cx = Int(face.midX) - cropW / 2
         var cy = Int(face.midY) - cropH / 2

@@ -71,7 +71,7 @@
 │   └── Resources/                 # 内嵌报告、清单（二进制资源已 gitignore）
 ├── dist/PhotoProcessAnalyzer.dmg  # 预构建产物（可选）
 ├── README.md
-└── LICENSE                        # 0BSD
+└── LICENSE                        # CC0-1.0
 ```
 
 ## 逆向工程结论摘要
@@ -92,9 +92,20 @@
 
 > 注意：目标程序 `照片处理工具.exe` 及其提取的二进制资源版权属于「人社部人事考试中心」，本仓库**不**包含这些二进制文件（已 gitignore），仅保留文本报告与 SHA-256 元数据。
 
+## 成本
+
+| 项目 | 成本 |
+|---|---|
+| 工具链 | 全部免费开源：Xcode 命令行工具 / Swift、REA、Ghidra 12.1.4 |
+| 硬件 | 任意 macOS 14+ 的 Mac（Apple Silicon 或 Intel） |
+| 云端 / API | 无（纯本地编译与推理，无 token、无付费服务） |
+| 运行时依赖 | 无（人脸检测用系统自带 Vision 框架） |
+| 时间 | 静态逆向分析 + Swift 复刻 + 打包，约数小时 |
+| 总金钱成本 | **¥0** |
+
 ## 许可证
 
-[BSD Zero Clause License (0BSD)](LICENSE) —— 最宽松的许可证，可自由使用、修改、分发，无任何附加条件。
+[CC0 1.0 Universal (Creative Commons Zero)](LICENSE) —— 将作品最大程度奉献至公有领域：**不要求署名、无任何条件限制、放弃版权及关联权利、并免除一切担保与责任**，任何人可以以任何方式（含商业用途）使用、复制、修改、分发。这是最能“把作者摘除”的许可证。
 
 ## 免责声明
 
